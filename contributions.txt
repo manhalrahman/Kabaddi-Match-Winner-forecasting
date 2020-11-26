@@ -1,0 +1,9 @@
+work				contributors
+Literature review	Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+Data scraping		Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+Preprocessing		Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+Model building		Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+Model Testing		Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+Data Visualization	Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+Making of report	Agrim Agarwal, Pallavi Varshney, Manhal Rehman, Shreya Kulkarni
+
